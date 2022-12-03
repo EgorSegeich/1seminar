@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\bin\Debug\net6.0\3 задание.exe
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\bin\Debug\net6.0\3 задание.deps.json
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\bin\Debug\net6.0\3 задание.runtimeconfig.json
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\bin\Debug\net6.0\3 задание.dll
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\bin\Debug\net6.0\3 задание.pdb
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.dll
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\refint\3 задание.dll
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.pdb
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\3 задание.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\3. Знакомство с языками программироваия\Семинары\1 семинар\3 задание\obj\Debug\net6.0\ref\3 задание.dll
